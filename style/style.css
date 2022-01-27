@@ -1,0 +1,23 @@
+body{background-image: url(./background/background.jpg);
+color: rgb(255, 255, 255);
+font-family: 'Roboto', sans-serif;}
+
+#mp3{width: 270px;
+text-align: center;
+margin: auto;
+background-color: rgba(156, 38, 189, 0.753);
+padding-left: 10px;
+padding-right: 10px;
+position: relative;
+top: 15vh;
+padding-top: 30px;
+padding-bottom: 20px;
+}
+
+#image{width: 25vh;
+height: 25vh;}
+
+.botoes{width: 30px;
+padding: 10px;}
+
+#pauseBotton{display: none;}
